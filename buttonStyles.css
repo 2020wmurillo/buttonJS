@@ -27,29 +27,12 @@ button{
 }
 .c{
     width: 25%;
-    height: 75%;
+    height: 50%;
     margin:0 auto;
     float: left;
 }
-.nightmode{
-  background-color: #000000;
-  color: #ffffff;
 
-}
-
-.daymode{
-  background-color
-}
-
-.gp1{
-  background-color:#550000;
-}
-.p1{background-color:#991100;}
-.c1{background-color:#dd1111;}
-
-.bf{background-color:#0000ff;}
-.rf{background-color:#ff0000;}
-
-.fish{
-  
+.night{
+      background-color: black;
+      color: #ffffff;
 }
